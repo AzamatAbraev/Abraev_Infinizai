@@ -5,6 +5,11 @@
   background-size: cover;
 }
 
+.light .shop-section {
+  background-image: none;
+  background-color: var(--primary-color);
+}
+
 .shop-top {
   display: -webkit-box;
   display: -ms-flexbox;

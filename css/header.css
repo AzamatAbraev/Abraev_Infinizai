@@ -313,6 +313,10 @@ header {
   padding-top: 20px;
 }
 
+.home-section {
+  margin: 0 auto;
+}
+
 @media (max-width: 1100px) {
   .home-section {
     -webkit-box-orient: vertical;
